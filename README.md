@@ -1,7 +1,7 @@
 # git-study
 
 # 基础操作
-git init:初始化本地库
+```bash git init:初始化本地库
 
 git add 文件名|通配符:添加至暂存区
 
@@ -18,7 +18,7 @@ git log:查看详细日志信息
 git reset --hard 版本号:版本切换
 
 # 分支操作
-git branch 分支名:创建分支
+```bash git branch 分支名:创建分支
 
 git branch -v:查看分支
 
